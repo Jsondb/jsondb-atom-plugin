@@ -1,1 +1,1 @@
-A atom plugin that helps with manually editing Jsondb data files
+A atom plugin which helps in manual editing of Jsondb data files 

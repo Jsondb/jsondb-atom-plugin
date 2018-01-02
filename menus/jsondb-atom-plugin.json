@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle jsondb-atom-plugin",
+        "command": "jsondb-atom-plugin:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "jsondb-atom-plugin",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "jsondb-atom-plugin:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
