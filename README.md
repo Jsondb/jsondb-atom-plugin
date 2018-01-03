@@ -1,4 +1,4 @@
-## json-atom-plugin
+## jsondb-atom-plugin
 
 A [Jsondb](http://jsondb.io/) data file in its entirety is not  a valid JSON string, hence you cannot edit the complete Jsondb data file in a standard JSON conscious text editor. This makes it difficult to manully edit the file if the schema is complex.
 
