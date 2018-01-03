@@ -1,10 +1,10 @@
 ## json-atom-plugin
 
-A Jsondb data file in its entirety is not  a valid JSON string, hence you cannot edit the complete Jsondb data file in a standard JSON conscious text editor. This makes it difficult manully edit the file if the schema is complex.
+A Jsondb data file in its entirety is not  a valid JSON string, hence you cannot edit the complete Jsondb data file in a standard JSON conscious text editor. This makes it difficult to manully edit the file if the schema is complex.
 
-However each row in a Jsondb data file (upto the LF) is expected to be a valid JSON document. This plugin when installed along with the [Atom Editor](https://atom.io/) can help with manual editing of Jsondb data file.
+However each row in a Jsondb data file (upto the LF) is expected to be a valid JSON document. This plugin when installed along with the [Atom Editor](https://atom.io/) can help to manually edit a Jsondb data file.
 
-Note: MongoDB import files have a similar problem in manually editing, this plugin solves that problem too.
+Note: MongoDB import files have a similar problem with manual editing, this plugin can be used for those files or any similar files
 
 ## Usage
 
