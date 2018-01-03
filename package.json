@@ -6,11 +6,14 @@
 		"jsondb"
 	],
 	"homepage": "https://github.com/Jsondb/jsondb-atom-plugin#readme",
+	"bugs": {
+		"url": "https://github.com/Jsondb/jsondb-atom-plugin/issues"
+	},
 	"license": "MIT",
 	"main": "./lib/jsondb-atom-plugin",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Jsondb/jsondb-atom-plugin.git"
+		"url": "https://github.com/Jsondb/jsondb-atom-plugin.git"
 	},
 	"dependencies": {},
 	"engines": {
