@@ -1,25 +1,25 @@
 {
-  "name": "jsondb-atom-plugin",
-  "version": "0.1.0",
-  "description": "A atom plugin which helps in manual editing of Jsondb data files",
-  "keywords": [
-    "jsondb"
-  ],
-  "homepage": "https://github.com/Jsondb/jsondb-atom-plugin#readme",
-  "bugs": {
-    "url": "https://github.com/Jsondb/jsondb-atom-plugin/issues"
-  },
-  "license": "MIT",
-  "main": "./lib/jsondb-atom-plugin",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Jsondb/jsondb-atom-plugin.git"
-  },
-  "dependencies": {},
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  },
-  "activationCommands": {
-    "atom-workspace": "jsondb-atom-plugin:toggle"
-  }
+	"name": "jsondb-atom-plugin",
+	"version": "0.1.0",
+	"description": "A atom plugin which helps in manual editing of Jsondb data files",
+	"keywords": [
+		"jsondb"
+	],
+	"homepage": "https://github.com/Jsondb/jsondb-atom-plugin#readme",
+	"bugs": {
+		"url": "https://github.com/Jsondb/jsondb-atom-plugin/issues"
+	},
+	"license": "MIT",
+	"main": "./lib/jsondb-atom-plugin",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Jsondb/jsondb-atom-plugin.git"
+	},
+	"dependencies": {},
+	"engines": {
+		"atom": ">=1.0.0 <2.0.0"
+	},
+	"activationCommands": {
+		"atom-workspace": "jsondb-atom-plugin:toggle"
+	}
 }
